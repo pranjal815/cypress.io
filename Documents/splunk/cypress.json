@@ -1,3 +1,5 @@
 {
-  "baseUrl": "http://localhost:5000"
+ "supportFile": "cypress/support/index.js",	 
+ "baseUrl": "http://localhost:5000",
+  "projectId": "m69bk7"
 }
